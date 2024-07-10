@@ -1,5 +1,5 @@
 # 페이지 구성
-
+[페이지 바로가기](https://whattoday.kro.kr/)
 ## 데스크탑
 ![image](https://github.com/gbsw-ERROR-404/.github/assets/78180994/2f1a93be-ce7d-4a28-b6ba-7db7748fd8dd)
 ![image](https://github.com/gbsw-ERROR-404/.github/assets/78180994/d63e647f-bced-4c09-b181-cbe792415966)
